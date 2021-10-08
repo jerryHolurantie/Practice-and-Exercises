@@ -16,7 +16,7 @@ def moves(pos):
 
     return [(x_neg, x_pos), (y_neg, y_pos)]
 
-    # return n_arr[ possible_moves ]
+    return n_arr[ possible_moves ]
 
 if __name__ == '__main__':
     # print(chess_board)
